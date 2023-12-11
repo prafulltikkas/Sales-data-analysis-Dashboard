@@ -1,1 +1,41 @@
-p
+Project:1
+Title of Project : "Sales Data analysis"📊
+Purpose: Analyze sales data to identify trends, top-selling products, and revenue metrics for
+business decision-making.
+
+Data cleaning : Through Excel
+There were no nulls found ,No duplicate item and all data were consistent.
+therefore dataset was clean.
+
+Sales Trend By Product:
+MacBook pro sales increasing by 23%
+comparing to other sales its high number
+Lowest number sales is 3% revenue Suddenly decreases.
+iPhone sales 14% which is 2nd number increases.
+
+Top Product by sales:
+MacBook pro
+iPhone
+ThinkPad laptop
+Google phone
+
+Sales by city
+San Francisco
+Los Angeles
+New York
+Boston
+Dallas
+Atlanta
+Portland
+Austin
+
+Order by Top Products:
+
+MacBook pro
+IPhone
+ThinkPad Laptop
+Google Phone
+are highest revenue generating products.
+
+Tools used : Excel,Power BI
+thank you MeriSKILL for the opportunities.
